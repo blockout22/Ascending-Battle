@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.log
+*.prefs
+/.metadata/
+*.dll
+*.so
+*.dylib
+*.classpath
+Game/lib/jars/lwjgl.jar
+*.project
+*.class
+*.obj
+*.png
